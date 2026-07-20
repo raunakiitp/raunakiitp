@@ -1,22 +1,206 @@
-# 💫 About Me:
-# Hi there, I'm Raunak 👋<br><br>🎓 Undergraduate Student at IIT Patna<br><br>💻 Passionate about Artificial Intelligence, Software Development, and Open Source.<br><br>🚀 I enjoy building impactful projects, participating in hackathons, and solving real-world problems through technology.<br><br>📚 Currently focused on AI/ML, Full-Stack Development, System Design, and Scalable Software Engineering.<br><br>🌟 Always learning, building, and improving.<br>
+<div align="center">
 
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Raunak+Yadav;AI+Engineer+%7C+Full+Stack+Developer;BS-MS+AI+%26+Cybersecurity+%40+IIT+Patna;Building+AI+Products+for+Real+World+Problems" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/itsraunak.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsme.raunak_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-iitp) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raunak_iitp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavraunak2004@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=RAUNAK%20YADAV&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20•%20Open%20Source%20Builder%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=raunakiitp&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=raunakiitp&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raunakiitp&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+
+<a href="https://github.com/raunakiitp">
+<img src="https://img.shields.io/github/followers/raunakiitp?logo=github&style=for-the-badge&color=8B5CF6"/>
+</a>
+
+<a href="https://github.com/raunakiitp?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Projects-success?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raunak-iitp/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:raunak_ua2504aih174@iitp.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=raunakiitp&style=for-the-badge&color=8B5CF6"/>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=raunakiitp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Raunakyadav2004) 
+# 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+Name: Raunak Yadav
+
+Education:
+  Integrated BS-MS
+  Artificial Intelligence & Cybersecurity
+  IIT Patna
+
+Role:
+  AI Engineer
+  Full Stack Developer
+
+Currently:
+  Building intelligent applications using AI,
+  modern web technologies and cloud platforms.
+
+Interests:
+  • Artificial Intelligence
+  • LLMs
+  • Full Stack Development
+  • Open Source
+  • Automation
+  • System Design
+
+Goal:
+  Build products used by millions.
+```
+
+---
+
+# 🚀 Current Mission
+
+```text
+⚡ Building AI Applications
+
+🧠 Exploring LLMs & AI Agents
+
+🌐 Developing Scalable Full Stack Products
+
+📚 Learning Cloud & System Design
+
+🤝 Contributing to Open Source
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb"/>
+
+</p>
+
+### AI & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ⚽ FIFA World Cup AI | AI-powered football platform with intelligent insights |
+| 🤖 COMET | Multi-agent AI platform for civic intelligence |
+| 📄 Docs247 | Smart document tools powered by AI |
+| 📚 Bibliofy | Digital Library & Knowledge Platform |
+| 🎓 RS Classes | Online education platform |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raunakiitp&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakiitp&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakiitp&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raunakiitp&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakiitp&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Cloud Computing
+- Distributed Systems
+- Scalable Backend Development
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/raunakiitp">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raunak-iitp/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:raunak_ua2504aih174@iitp.ac.in">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> **"Great products are built by solving real problems, one iteration at a time."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
