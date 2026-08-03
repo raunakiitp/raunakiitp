@@ -1,79 +1,105 @@
 <div align="center">
 
-<img src="header.svg?v=1" alt="Raunak Yadav" width="100%">
-
-<br><br>
-
-<table>
-<tr>
-<td width="260" align="center" valign="top">
-
-<img src="lanyard.svg?v=1" alt="Raunak Yadav ID badge" width="260">
-
-</td>
-<td valign="top">
-
-### 🚀 Featured Projects
-
-| Project | Tech |
-|---|---|
-| ⚽ [FIFA World Cup AI](https://github.com/raunakiitp) | `Python` `AI` |
-| 🤖 [COMET](https://github.com/raunakiitp) | `Python` `Multi-Agent` |
-| 📄 [Docs247](https://github.com/raunakiitp) | `AI` `Docs` |
-| 📚 [Bibliofy](https://github.com/raunakiitp) | `React` `Node.js` |
-| 🎓 [RS Classes](https://github.com/raunakiitp) | `JavaScript` |
-| 🧠 [focusflow-openenv](https://github.com/raunakiitp/focusflow-openenv) | `Python` `RL` |
-
-> 💗 *"I don't just write code, I build things people use."*
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Raunak Yadav banner" width="100%">
+</picture>
 
 <br>
 
-## 📊 GitHub Stats & Graphs
+<img src="lanyard.svg?v=1" alt="Raunak Yadav ID badge" width="260">
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raunakiitp&show_icons=true&title_color=ff2d87&text_color=374151&icon_color=a855f7&border_color=ff2d87&bg_color=ffffff&ring_color=a855f7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakiitp&layout=compact&title_color=ff2d87&text_color=374151&icon_color=a855f7&border_color=ff2d87&bg_color=ffffff" />
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-raunakiitp-8B5CF6?style=for-the-badge&logo=github)](https://github.com/raunakiitp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raunak-iitp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raunakyadav.dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunak_ua2504aih174@iitp.ac.in)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/raunak_iitp)
+
+<img src="https://komarev.com/ghpvc/?username=raunakiitp&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="profile views">
+
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+```
+Name        : Raunak Yadav
+Education   : Integrated BS-MS, Artificial Intelligence & Cybersecurity, IIT Patna
+Role        : AI Engineer · Full Stack Developer
+Currently   : Building intelligent applications with AI, modern web tech & cloud
+Interests   : AI/LLMs · Full Stack Development · Open Source · Automation · System Design
+Goal        : Build products used by millions.
+```
+
+## 🛠 Tech Arsenal
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raunakiitp&background=ffffff&border=ff2d87&stroke=ff2d87&ring=a855f7&fire=ff2d87&currStreakNum=ff2d87&sideNums=a855f7&currStreakLabel=ff2d87&sideLabels=6b7280&dates=6b7280" alt="streak stats" />
-</p>
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakiitp&bg_color=ffffff&color=6b7280&line=ff2d87&point=a855f7&area=true&area_color=ff2d87&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%92%97" width="100%" />
+  <img src="stats.svg?v=1" alt="GitHub stats" width="48%">
+  <img src="langs.svg?v=1" alt="Top languages" width="38%">
 </p>
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunakiitp&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="trophies.svg?v=1" alt="GitHub trophies" width="90%">
 </p>
 
-## 🐍 Watch the Snake Eat My Contributions
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakiitp&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%">
+</p>
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raunakiitp/raunakiitp/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raunakiitp/raunakiitp/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/raunakiitp/raunakiitp/output/github-snake.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/raunakiitp/raunakiitp/output/github-snake.svg" alt="Snake animation eating contribution graph" width="100%">
 </picture>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| ⚽ **FIFA World Cup AI** | AI-powered football platform with intelligent insights |
+| 🤖 **COMET** | Multi-agent AI platform for civic intelligence |
+| 📄 **Docs247** | Smart document tools powered by AI |
+| 📚 **Bibliofy** | Digital library & knowledge platform |
+| 🎓 **RS Classes** | Online education platform |
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs) & AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Cloud Computing & Distributed Systems
+- Scalable Backend Development
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:raunak_ua2504aih174@iitp.ac.in"><img src="https://img.shields.io/badge/EMAIL-ff2d87?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/raunakiitp"><img src="https://img.shields.io/badge/GITHUB-a855f7?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/raunak_iitp/"><img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/raunak-iitp/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=github,linkedin,instagram" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raunakiitp&style=for-the-badge&color=ff2d87&label=PROFILE+VIEWS" alt="profile views">
-</p>
+> **"Great products are built by solving real problems, one iteration at a time."**
 
-<p align="center">⭐ <i>Always learning, always building.</i> 💗</p>
-
-</div>
+<div align="center">⭐ Thanks for stopping by!</div>
