@@ -1,0 +1,57 @@
+<svg width="360" height="220" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="langBar" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#7dd3fc"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+</defs>
+<rect width="360" height="220" rx="16" fill="#150a24" stroke="#a855f7" stroke-width="1"/>
+<text x="24" y="34" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#f5f3ff">Most Used Languages</text>
+<g font-family="Consolas, monospace" font-size="12" fill="#e5e7eb">
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+    <text x="24" y="58">Python</text>
+    <text x="320" y="58" text-anchor="end">34%</text>
+    <rect x="24" y="66" width="280" height="7" rx="3.5" fill="#2b1a40"/>
+    <rect x="24" y="66" width="0" height="7" rx="3.5" fill="#3572A5">
+      <animate attributeName="width" from="0" to="95" dur="1s" begin="0.45s" fill="freeze"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.50s" fill="freeze"/>
+    <text x="24" y="88">TypeScript</text>
+    <text x="320" y="88" text-anchor="end">26%</text>
+    <rect x="24" y="96" width="280" height="7" rx="3.5" fill="#2b1a40"/>
+    <rect x="24" y="96" width="0" height="7" rx="3.5" fill="#3178c6">
+      <animate attributeName="width" from="0" to="72" dur="1s" begin="0.65s" fill="freeze"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.70s" fill="freeze"/>
+    <text x="24" y="118">JavaScript</text>
+    <text x="320" y="118" text-anchor="end">18%</text>
+    <rect x="24" y="126" width="280" height="7" rx="3.5" fill="#2b1a40"/>
+    <rect x="24" y="126" width="0" height="7" rx="3.5" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="50" dur="1s" begin="0.85s" fill="freeze"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+    <text x="24" y="148">Java</text>
+    <text x="320" y="148" text-anchor="end">12%</text>
+    <rect x="24" y="156" width="280" height="7" rx="3.5" fill="#2b1a40"/>
+    <rect x="24" y="156" width="0" height="7" rx="3.5" fill="#b07219">
+      <animate attributeName="width" from="0" to="33" dur="1s" begin="1.05s" fill="freeze"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.10s" fill="freeze"/>
+    <text x="24" y="178">HTML</text>
+    <text x="320" y="178" text-anchor="end">10%</text>
+    <rect x="24" y="186" width="280" height="7" rx="3.5" fill="#2b1a40"/>
+    <rect x="24" y="186" width="0" height="7" rx="3.5" fill="#e34c26">
+      <animate attributeName="width" from="0" to="28" dur="1s" begin="1.25s" fill="freeze"/>
+    </rect>
+  </g>
+</g>
+</svg>

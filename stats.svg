@@ -1,0 +1,80 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff6ec7"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#ff6ec7"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+</defs>
+<rect width="480" height="220" rx="16" fill="#150a24" stroke="#a855f7" stroke-width="1"/>
+<text x="24" y="34" font-family="Consolas, monospace" font-size="17" font-weight="700" fill="#f5f3ff">Raunak's GitHub Stats</text>
+
+<!-- rank ring -->
+<g transform="translate(90,130)">
+  <circle r="58" fill="none" stroke="#2b1a40" stroke-width="10"/>
+  <circle r="58" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
+    stroke-dasharray="364" stroke-dashoffset="364" transform="rotate(-90)">
+    <animate attributeName="stroke-dashoffset" from="364" to="62" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+  </circle>
+  <text text-anchor="middle" y="6" font-family="Consolas, monospace" font-size="20" font-weight="700" fill="#f5f3ff" opacity="0">
+    A+
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.7s" fill="freeze"/>
+  </text>
+  <text text-anchor="middle" y="26" font-family="Consolas, monospace" font-size="10" fill="#c4b5fd" opacity="0">
+    RANK
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.8s" fill="freeze"/>
+  </text>
+</g>
+
+<!-- stat rows -->
+<g font-family="Consolas, monospace" font-size="13" fill="#e5e7eb">
+  <g transform="translate(180,60)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="220,60" to="180,60" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <text x="0" y="0">Total Stars</text>
+    <rect x="0" y="8" width="240" height="6" rx="3" fill="#2b1a40"/>
+    <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="240" dur="1s" begin="0.60s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(180,90)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.65s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="220,90" to="180,90" dur="0.5s" begin="0.65s" fill="freeze"/>
+    <text x="0" y="0">Total Commits</text>
+    <rect x="0" y="8" width="240" height="6" rx="3" fill="#2b1a40"/>
+    <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="204" dur="1s" begin="0.85s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(180,120)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="220,120" to="180,120" dur="0.5s" begin="0.90s" fill="freeze"/>
+    <text x="0" y="0">Total PRs</text>
+    <rect x="0" y="8" width="240" height="6" rx="3" fill="#2b1a40"/>
+    <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="132" dur="1s" begin="1.10s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(180,150)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="220,150" to="180,150" dur="0.5s" begin="1.15s" fill="freeze"/>
+    <text x="0" y="0">Total Issues</text>
+    <rect x="0" y="8" width="240" height="6" rx="3" fill="#2b1a40"/>
+    <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="72" dur="1s" begin="1.35s" fill="freeze"/>
+    </rect>
+  </g>
+  <g transform="translate(180,180)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="220,180" to="180,180" dur="0.5s" begin="1.40s" fill="freeze"/>
+    <text x="0" y="0">Contributed to</text>
+    <rect x="0" y="8" width="240" height="6" rx="3" fill="#2b1a40"/>
+    <rect x="0" y="8" width="0" height="6" rx="3" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="96" dur="1s" begin="1.60s" fill="freeze"/>
+    </rect>
+  </g>
+</g>
+</svg>
